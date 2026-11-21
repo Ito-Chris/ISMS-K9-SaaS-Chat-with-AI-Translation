@@ -1,0 +1,2 @@
+
+Replace the remote URL with the repository name you create under your account.
